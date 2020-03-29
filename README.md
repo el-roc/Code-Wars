@@ -1,1 +1,1 @@
-5 Different code war challenges. All using Javascript functions to solve.
+Code War challenges. All using Javascript functions to solve.
